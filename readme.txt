@@ -4,7 +4,7 @@ Simple introduction：
 	3. Using pycharm to set up and execute the project.
 
 How to run:
-	You should run the test method under TestHttpPost.py, TestHttpPost.py, TestHttpDelete.py. Double click the test method, such as test_http_post, then right click, run by pytest.
+	Please run the test method under TestHttpPost.py, TestHttpPost.py, TestHttpDelete.py. Double click the test method, such as test_http_post, then right click, run by pytest.
 
 
 Two issues I found:
